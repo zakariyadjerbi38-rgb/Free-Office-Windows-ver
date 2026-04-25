@@ -1,2 +1,1 @@
-# Free-Office-Windows-ver
-n
+read package
